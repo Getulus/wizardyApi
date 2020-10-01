@@ -1,0 +1,18 @@
+body {
+  height: 100%;
+}
+
+.App {
+  background-color: black;
+  height: 2500px;
+}
+
+.container {
+  background: url("../src/static/img/hwbackground.gif");
+  background-size: cover;
+  color: aliceblue;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+  background-position: center;
+}

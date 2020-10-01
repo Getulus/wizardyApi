@@ -1,0 +1,14 @@
+.houses {
+  height: 600px;
+  width: 600px;
+  display: grid;
+  grid-template-columns: auto auto;
+  margin: auto;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  background: transparent;
+  cursor: pointer;
+}
